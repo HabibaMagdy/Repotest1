@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CE75-8EDA
+
+ Directory of C:\Users\Mohamed AlGizawy\Desktop\git-project
+
+08/18/2022  03:38 PM    <DIR>          .
+08/18/2022  03:38 PM    <DIR>          ..
+08/18/2022  03:38 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  68,108,226,560 bytes free
+
+tesssst1
+
